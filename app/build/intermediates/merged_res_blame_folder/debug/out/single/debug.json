@@ -1,0 +1,722 @@
+[
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_game.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\game.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noticecomment.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\noticecomment.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_advertisement.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_advertisement.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_edit1_focus.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\bg_edit1_focus.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_edit1_normal.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\bg_edit1_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_successuggest.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_successuggest.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_feed_back.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_edit_feed_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edge.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\edge.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_change_password.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_shape.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\btn_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_square.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\tab_square.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_square.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\square.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noticexitong.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\noticexitong.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_message_selected.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\message_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_school1.jpg.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\school1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_wangzhe.gif.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\mipmap-anydpi-v26\\wangzhe.gif"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_corners_bg.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\corners_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_edit.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\bg_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_tabs.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\home_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_square_kaoyan.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_edit_square_kaoyan.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_changerealname.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\changerealname.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap_ic_launcher.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\mipmap\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_background2.jpg.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\mipmap-anydpi-v26\\background2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_square_qimo.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_edit_square_qimo.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_article_collect.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\article_collect.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_message.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_layout.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\bottom_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi_symbol2.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\mipmap-anydpi\\symbol2.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fm.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\fm.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_splash_background.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\mipmap-anydpi-v26\\splash_background.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phonenumber.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\phonenumber.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_message.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\tab_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_notice_system.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_notice_system.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_issue.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_my_issue.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_items_photo.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\list_items_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_school3.jpg.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\school3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_succes.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\succes.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_call.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_collect_selected.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\collect_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_myissue.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\myissue.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_square_lost_and_found.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_edit_square_lost_and_found.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_systemnotice.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\systemnotice.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_symbol.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\mipmap-anydpi-v26\\symbol.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_flash.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\mipmap-xxhdpi\\flash.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_notice_comment.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_notice_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shpae_2.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\shpae_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edie_background.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\edie_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_school6.jpg.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\school6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_background3.jpg.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\mipmap-anydpi-v26\\background3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_school11.jpeg.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\school11.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_calendar.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_light.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\light.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_square_lost_and_found.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_square_lost_and_found.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_square_qimo.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_square_qimo.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_square_selected.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\square_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mall.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\mall.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_us.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_changeusername.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\changeusername.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_map.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_email.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_school12.jpeg.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\school12.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_changestudentnumber.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\changestudentnumber.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calendar.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_notice_star.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_notice_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_clearcache.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\clearcache.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_school13.jpeg.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\school13.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_helpand_feed_back_three.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_helpand_feed_back_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zhanghao.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\zhanghao.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialogicon.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\dialogicon.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setting_flat.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\setting_flat.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\music.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\card.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_profile.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\edit_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_items_comments_notice.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\list_items_comments_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_major.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\major.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_helpand_feed_back.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_helpand_feed_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_school10.jpeg.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\school10.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_right.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\right.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_schoolcalendar.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\schoolcalendar.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setting.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_scenery.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_scenery.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\mipmap-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_message.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile_selected.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\profile_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yijian.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\yijian.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_article_star.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\article_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star_selected.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\star_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_square_delicious_food.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_square_delicious_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\weather.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_college.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\college.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_profile.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\tab_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_edit_normal.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\bg_edit_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_items_myissue.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\list_items_myissue.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_edit1.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\bg_edit1.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_items_comment.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\list_items_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_school4.jpg.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\school4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_symbol1.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\mipmap-anydpi-v26\\symbol1.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_collect.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\collect.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_items_article.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\list_items_article.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\mipmap-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_article_content.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_article_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_personal_information_details_page.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_personal_information_details_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_singup_mobile.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_singup_mobile.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_publish.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\publish.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_square_hot_topics.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_square_hot_topics.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_shenghuo.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\fragment_home_shenghuo.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_no.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\anim\\anim_no.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_selected.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\home_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_qinggan.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\fragment_home_qinggan.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_helpand_feed_back_four.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_helpand_feed_back_four.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_kaoyan.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\fragment_home_kaoyan.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_changepassword.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\changepassword.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_square_delicious_food.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_edit_square_delicious_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_helpand_feed_back_two.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_helpand_feed_back_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_edittext_background.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\custom_edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_about.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_photo.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\photo.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_male.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\male.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_edge.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\button_edge.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_head_img.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\head_img.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_school7.jpeg.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\school7.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile_message.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_profile_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noticestar.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\noticestar.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_school8.jpeg.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\school8.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_type.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\type.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_giflogo.gif.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\giflogo.gif"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_promote.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\promote.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_registertime.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\registertime.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_clock.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_school2.jpg.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\school2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_account_management.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_account_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\radio.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_symbol2.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\symbol2.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_giant.jpg.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\mipmap-anydpi-v26\\giant.jpg"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\dot.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_square_kaoyan.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_square_kaoyan.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_schoolcalendar1.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\schoolcalendar1.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_cet46.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\fragment_home_cet46.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_article.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_edit_article.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_comment.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\comment.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_helpand_feed_back_one.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\activity_helpand_feed_back_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_school5.jpg.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\school5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_female.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\female.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_square.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\fragment_square.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_tuijian.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\layout\\fragment_home_tuijian.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_edit_focus.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\bg_edit_focus.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_home.xml.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\tab_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_bilibili1.jpg.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\mipmap-anydpi-v26\\bilibili1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\17195\\Desktop\\Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_school9.jpeg.flat",
+        "source": "C:\\Users\\17195\\Desktop\\Android1\\app\\src\\main\\res\\drawable\\school9.jpeg"
+    }
+]

@@ -1,0 +1,162 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="top.weiyuexin.tetl"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+11-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:6:5-8:47
+11-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:7:9-57
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:9:5-79
+12-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:9:22-76
+13    <uses-permission android:name="android.permission.INTERNET" /> <!-- 拨打电话的权限，这里必须要添加权限，否则当点击电话号码的时候程序会崩溃 -->
+13-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:10:5-67
+13-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:10:22-64
+14    <uses-permission android:name="android.permission.CALL_PHONE" />
+14-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:11:5-69
+14-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:11:22-66
+15
+16    <application
+16-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:15:5-63:19
+17        android:allowBackup="true"
+17-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:16:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.3.2] C:\Users\17195\.gradle\caches\transforms-2\files-2.1\4d17b62a4f98946aa00b8497fed506fc\core-1.3.2\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/logo"
+20-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:17:9-36
+21        android:label="@string/app_name"
+21-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:18:9-41
+22        android:roundIcon="@mipmap/logo"
+22-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:19:9-41
+23        android:supportsRtl="true"
+23-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:20:9-35
+24        android:testOnly="true"
+25        android:theme="@style/Theme.TETL" >
+25-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:21:9-42
+26        <activity android:name="com.example.work.NoticeStar" />
+26-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:22:9-57
+26-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:22:19-45
+27        <activity android:name="com.example.work.NoticeComment" />
+27-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:23:9-51
+27-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:23:19-48
+28        <activity android:name="com.example.work.NoticeSystem" />
+28-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:24:9-50
+28-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:24:19-47
+29        <activity android:name="com.example.work.SquareHotTopics" />
+29-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:25:9-53
+29-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:25:19-50
+30        <activity android:name="com.example.work.EditSquareDeliciousFood" />
+30-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:26:9-61
+30-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:26:19-58
+31        <activity android:name="com.example.work.SquareDeliciousFood" />
+31-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:27:9-57
+31-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:27:19-54
+32        <activity android:name="com.example.work.EditSquareLostAndFound" />
+32-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:28:9-60
+32-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:28:19-57
+33        <activity android:name="com.example.work.SquareLostAndFound" />
+33-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:29:9-56
+33-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:29:19-53
+34        <activity android:name="com.example.work.EditSquareQimo" />
+34-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:30:9-52
+34-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:30:19-49
+35        <activity android:name="com.example.work.SquareQimo" />
+35-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:31:9-48
+35-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:31:19-45
+36        <activity android:name="com.example.work.EditSquareKaoyan" />
+36-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:32:9-54
+36-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:32:19-51
+37        <activity android:name="com.example.work.SquareKaoyan" />
+37-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:33:9-50
+37-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:33:19-47
+38        <activity android:name="com.example.work.SceneryActivity" />
+38-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:34:9-53
+38-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:34:19-50
+39        <activity android:name="com.example.work.CalendarActivity" />
+39-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:35:9-54
+39-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:35:19-51
+40        <activity android:name="com.example.work.ChangePassword" />
+40-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:36:9-52
+40-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:36:19-49
+41        <activity android:name="com.example.work.AccountManagement" />
+41-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:37:9-55
+41-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:37:19-52
+42        <activity android:name="com.example.work.Login" />
+42-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:38:9-43
+42-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:38:19-40
+43        <activity android:name="com.example.work.Register" />
+43-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:39:9-46
+43-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:39:19-43
+44        <activity android:name="com.example.work.MainActivity" />
+44-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:40:9-50
+44-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:40:19-47
+45        <activity android:name="com.example.work.Setting" />
+45-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:41:9-45
+45-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:41:19-42
+46        <activity android:name="com.example.work.successuggestActivity" />
+46-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:42:9-59
+46-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:42:19-56
+47        <activity android:name="com.example.work.EditFeedBack" />
+47-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:43:9-50
+47-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:43:19-47
+48        <activity android:name="com.example.work.HelpandFeedBackFourActivity" />
+48-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:44:9-65
+48-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:44:19-62
+49        <activity android:name="com.example.work.HelpandFeedBackThreeActivity" />
+49-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:45:9-66
+49-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:45:19-63
+50        <activity android:name="com.example.work.HelpandFeedBackTwoActivity" />
+50-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:46:9-64
+50-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:46:19-61
+51        <activity android:name="com.example.work.HelpandFeedBackOneActivity" />
+51-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:47:9-64
+51-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:47:19-61
+52        <activity android:name="com.example.work.HelpandFeedBack" />
+52-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:48:9-53
+52-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:48:19-50
+53        <activity android:name="com.example.work.MyIssueActivity" />
+53-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:49:9-53
+53-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:49:19-50
+54        <activity android:name="com.example.work.ProfileMessage" />
+54-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:50:9-52
+54-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:50:19-49
+55        <activity android:name="com.example.work.AboutUsActivity" />
+55-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:51:9-53
+55-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:51:19-50
+56        <activity android:name="com.example.work.EditArticleActivity" />
+56-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:52:9-57
+56-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:52:19-54
+57        <activity android:name="com.example.work.PersonalInformationDetailsPageActivity" />
+57-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:53:9-76
+57-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:53:19-73
+58        <activity android:name="com.example.work.ArticleContentActivity" />
+58-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:54:9-60
+58-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:54:19-57
+59        <activity android:name="com.example.work.SearchActivity" />
+59-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:55:9-52
+59-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:55:19-49
+60        <activity android:name="com.example.work.Advertisement" >
+60-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:56:9-62:20
+60-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:56:19-48
+61            <intent-filter>
+61-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:57:13-61:29
+62                <action android:name="android.intent.action.MAIN" />
+62-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:58:17-69
+62-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:58:25-66
+63
+64                <category android:name="android.intent.category.LAUNCHER" />
+64-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:60:17-77
+64-->C:\Users\17195\Desktop\Android1\app\src\main\AndroidManifest.xml:60:27-74
+65            </intent-filter>
+66        </activity>
+67    </application>
+68
+69</manifest>

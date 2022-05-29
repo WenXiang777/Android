@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="top.weiyuexin.tetl"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="30" />
+
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" /> <!-- 拨打电话的权限，这里必须要添加权限，否则当点击电话号码的时候程序会崩溃 -->
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.TETL" >
+        <activity android:name="com.example.work.NoticeStar" />
+        <activity android:name="com.example.work.NoticeComment" />
+        <activity android:name="com.example.work.NoticeSystem" />
+        <activity android:name="com.example.work.SquareHotTopics" />
+        <activity android:name="com.example.work.EditSquareDeliciousFood" />
+        <activity android:name="com.example.work.SquareDeliciousFood" />
+        <activity android:name="com.example.work.EditSquareLostAndFound" />
+        <activity android:name="com.example.work.SquareLostAndFound" />
+        <activity android:name="com.example.work.EditSquareQimo" />
+        <activity android:name="com.example.work.SquareQimo" />
+        <activity android:name="com.example.work.EditSquareKaoyan" />
+        <activity android:name="com.example.work.SquareKaoyan" />
+        <activity android:name="com.example.work.SceneryActivity" />
+        <activity android:name="com.example.work.CalendarActivity" />
+        <activity android:name="com.example.work.ChangePassword" />
+        <activity android:name="com.example.work.AccountManagement" />
+        <activity android:name="com.example.work.Login" />
+        <activity android:name="com.example.work.Register" />
+        <activity android:name="com.example.work.MainActivity" />
+        <activity android:name="com.example.work.Setting" />
+        <activity android:name="com.example.work.successuggestActivity" />
+        <activity android:name="com.example.work.EditFeedBack" />
+        <activity android:name="com.example.work.HelpandFeedBackFourActivity" />
+        <activity android:name="com.example.work.HelpandFeedBackThreeActivity" />
+        <activity android:name="com.example.work.HelpandFeedBackTwoActivity" />
+        <activity android:name="com.example.work.HelpandFeedBackOneActivity" />
+        <activity android:name="com.example.work.HelpandFeedBack" />
+        <activity android:name="com.example.work.MyIssueActivity" />
+        <activity android:name="com.example.work.ProfileMessage" />
+        <activity android:name="com.example.work.AboutUsActivity" />
+        <activity android:name="com.example.work.EditArticleActivity" />
+        <activity android:name="com.example.work.PersonalInformationDetailsPageActivity" />
+        <activity android:name="com.example.work.ArticleContentActivity" />
+        <activity android:name="com.example.work.SearchActivity" />
+        <activity android:name="com.example.work.Advertisement" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
